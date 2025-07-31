@@ -29,6 +29,31 @@ Bing首页每日都会更新一张来自世界各地的精美图片。通过 **i
 *   `bing.img.run` 服务本身已启用了又拍云CDN加速，理论上直接使用API的速度也相当快。如果您选择下载源代码并部署到自己的服务器上，那么强烈建议使用 **302跳转到Bing直链** 的方式，这样图片加载速度将与Bing官方速度保持一致。
 
 如果您不想自己部署代码，可以直接使用 `bing.img.run` 提供的API服务，方便快捷。
+## 🔗 bing体验链接：
+跳转至Bing图片直链：
+* https://my.bing.xo.je/302/uhd_302.php
+* https://my.bing.xo.je/302/m_302.php
+* https://my.bing.xo.je/302/1366x768_302.php
+* https://my.bing.xo.je/302/1920x1080_302.php
+
+跳转至Bing图片直链 （随机获取过去8天Bing历史壁纸）
+* https://my.bing.xo.je/302/lishi/uhd_302.php
+* https://my.bing.xo.je/302/lishi/m_302.php
+* https://my.bing.xo.je/302/lishi/1366x768_302.php
+* https://my.bing.xo.je/302/lishi/1920x1080_302.php
+
+
+php直接输出图片：
+* https://my.bing.xo.je/php/uhd.php
+* https://my.bing.xo.je/php/m.php
+* https://my.bing.xo.je/php/1366x768.php
+* https://my.bing.xo.je/php/1920x1080.php
+
+php直接输出图片 （随机获取过去8天Bing历史壁纸）
+* https://my.bing.xo.je/php/lishi/uhd.php
+* https://my.bing.xo.je/php/lishi/m.php
+* https://my.bing.xo.je/php/lishi/1366x768.php
+* https://my.bing.xo.je/php/lishi/1920x1080.php
 
 ## 🛠️ 使用方法
 
