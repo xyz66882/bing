@@ -94,8 +94,10 @@ Bing首页每日都会更新一张来自世界各地的精美图片。通过 **i
 ## 🗓️ 版本更新
 
 *   **2022年4月19日：** 初版1.0.0版本发布。
-    *   `PHP output img` 文件夹：包含PHP直接输出图片的代码。
-    *   `PHP output img\Random history Bing` 文件夹：包含PHP直接输出图片，随机获取过去8天Bing历史壁纸的代码。
-    *   `302 output Bing img` 文件夹：包含跳转至Bing图片直链的代码。
-    *   `302 output Bing img\302 Random history Bing` 文件夹：包含跳转至Bing图片直链，随机获取过去8天Bing历史壁纸的代码。
+
 *   **2025年7月31日：** 新增UHD超高清原图支持，提供 `uhd.php` 和 `uhd_302.php` 接口。
+
+*   `PHP output img` 文件夹：包含PHP直接输出图片的代码。
+*   `PHP output img\Random history Bing` 文件夹：包含PHP直接输出图片，随机获取过去8天Bing历史壁纸的代码。
+*   `302 output Bing img` 文件夹：包含跳转至Bing图片直链的代码。
+*   `302 output Bing img\302 Random history Bing` 文件夹：包含跳转至Bing图片直链，随机获取过去8天Bing历史壁纸的代码。
