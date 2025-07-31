@@ -74,6 +74,11 @@ Bing首页每日都会更新一张来自世界各地的精美图片。通过 **i
 
 在需要引用图片的地方插入对应的URL即可。不同参数的URL说明如下：
 
+*   `PHP output img` 文件夹：包含PHP直接输出图片的代码。
+*   `PHP output img\Random history Bing` 文件夹：包含PHP直接输出图片，随机获取过去8天Bing历史壁纸的代码。
+*   `302 output Bing img` 文件夹：包含跳转至Bing图片直链的代码。
+*   `302 output Bing img\302 Random history Bing` 文件夹：包含跳转至Bing图片直链，随机获取过去8天Bing历史壁纸的代码。
+*   
 *   **`https://bing.img.run/1920x1080.php`**
     *   **功能：** PHP链接直接输出 `1920×1080` 分辨率的每日壁纸图片。
 *   **`https://bing.img.run/1920x1080_302.php`**
