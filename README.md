@@ -43,17 +43,8 @@ Bing首页每日都会更新一张来自世界各地的精美图片。通过 **i
 * https://my.bing.xo.je/302/lishi/1920x1080_302.php
 
 
-php直接输出图片：
-* https://my.bing.xo.je/php/uhd.php
-* https://my.bing.xo.je/php/m.php
-* https://my.bing.xo.je/php/1366x768.php
-* https://my.bing.xo.je/php/1920x1080.php
+php直接输出图片链接不提供体验链接，由于php直接输出图片，会占用服务器流量，跳转至Bing图片直链不会不占用服务器的流量，所有这里只提供跳转至Bing图片直链链接，防止被刷流量，有需求的可以自行搭建。
 
-php直接输出图片 （随机获取过去8天Bing历史壁纸）
-* https://my.bing.xo.je/php/lishi/uhd.php
-* https://my.bing.xo.je/php/lishi/m.php
-* https://my.bing.xo.je/php/lishi/1366x768.php
-* https://my.bing.xo.je/php/lishi/1920x1080.php
 
 ## 🛠️ 使用方法
 
