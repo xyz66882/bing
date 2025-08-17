@@ -1,4 +1,14 @@
 # 🚀 Bing每日壁纸API服务
+![bing](https://socialify.git.ci/xyz66882/bing/image?font=Raleway&forks=1&issues=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
+<p align="center">
+  <!-- 创建日期 --><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/xyz66882/bing?logo=github&label=%E5%88%9B%E5%BB%BA%E6%97%A5%E6%9C%9F">
+  <!-- 下载量 --><a href="https://github.com/xyz66882/bing/releases"><img src="https://img.shields.io/github/downloads/xyz66882/bing/total?logo=github&label=%E4%B8%8B%E8%BD%BD%E9%87%8F"></a>
+  <!-- 贡献者 --><a href="https://github.com/xyz66882/bing/graphs/contributors"><img src="https://img.shields.io/github/contributors-anon/xyz66882/bing?logo=github&label=%E8%B4%A1%E7%8C%AE%E8%80%85"></a>
+  <!-- 最新版本 --><a href="https://github.com/xyz66882/bing/releases/"><img src="https://img.shields.io/github/release/xyz66882/bing?logo=github&label=%E6%9C%80%E6%96%B0%E7%89%88%E6%AC%A1"></a>
+  <!-- 问题数 --><a href="https://github.com/xyz66882/bing/issues"><img src="https://img.shields.io/github/issues-raw/xyz66882/bing?logo=github&label=%E9%97%AE%E9%A2%98"></a>
+  <!-- 讨论数 --><a href="https://github.com/xyz66882/bing/discussions"><img src="https://img.shields.io/github/discussions/xyz66882/bing?logo=github&label=%E8%AE%A8%E8%AE%BA"></a>
+  <!-- 仓库大小 --><a href="https://github.com/xyz66882/bing"><img src="https://img.shields.io/github/repo-size/xyz66882/bing?logo=github&label=%E4%BB%93%E5%BA%93%E5%A4%A7%E5%B0%8F"></a>
+</p>
 
 ## 🌟 简介
 
@@ -122,3 +132,18 @@ php直接输出图片链接不提供体验链接，由于php直接输出图片�
 *   `PHP output img\Random history Bing` 文件夹：包含PHP直接输出图片，随机获取过去8天Bing历史壁纸的代码。
 *   `302 output Bing img` 文件夹：包含跳转至Bing图片直链的代码。
 *   `302 output Bing img\302 Random history Bing` 文件夹：包含跳转至Bing图片直链，随机获取过去8天Bing历史壁纸的代码。
+
+# 🚀 贡献者
+<a href="https://github.com/xyz66882/bing/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=xyz66882/bing" />
+</a>
+<br /><br />
+
+# ⭐️ 收藏 历史
+<a href="https://www.star-history.com/#xyz66882/bing&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=xyz66882/bing&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=xyz66882/bing&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=xyz66882/bing&type=Date" />
+ </picture>
+</a>
